@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I am Muhammad Tarek
 - I like working with images, videos 
-- I was an ICPC contestant and part of the [ICPC Zagazig University Community](https://www.linkedin.com/company/acmzu/) from 2017 to 2020
+- I was an ICPC contestant and part of the [ICPC Zagazig University Community](https://www.linkedin.com/company/acmzu/) from 2017 to 2020 as a problem setter and contestant
 - I was deep learning and computer vision intern at [Curve A.I solutions](https://curveaisolutions.com/)
 - I was automation engineering inter at [First Gulf solutions](https://www.firstgulfsolutions.com/)
 - I was AI inter at [ODC Egypt](https://www.linkedin.com/company/orange-digital-center-egypt/) cooperated with [Instant software solutions](https://www.linkedin.com/company/instantsoftwaresolution/)
