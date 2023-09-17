@@ -6,7 +6,7 @@
 - I was deep learning and computer vision intern at [Curve A.I solutions](https://curveaisolutions.com/)
 - I was an automation engineering inter at [First Gulf Solutions](https://www.firstgulfsolutions.com/)
 - I was AI inter at [ODC Egypt](https://www.linkedin.com/company/orange-digital-center-egypt/) cooperated with [Instant software solutions](https://www.linkedin.com/company/instantsoftwaresolution/) 
+- And now I am a computer vision engineer at MCS
 - I was in the scholarship of intel
  ![Intel Scholarship](Intel-Scholarship%2B2020%402x.jpg)
  ![Deep learning specialization badge from Coursera](deep-learning-specialization.png)![Deep Neural Networks with PyTorch badge from IBM](deep-neural-networks-with-pytorch.png)
-And now I am a computer vision engineer at MCS
