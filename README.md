@@ -1,6 +1,5 @@
 ### Hi there 👋
 - I am Muhammad Tarek
-- I am seeking a job opportunity as a Deep learning engineer for computer vision applications and I have many ideas for developing this
 - I am a R&D computer vision engineer at MCS
 - I like working with images, videos 
 - I was an ICPC contestant and part of the [ICPC Zagazig University Community](https://www.linkedin.com/company/acmzu/) from 2018 to 2020 as a problem setter and contestant
