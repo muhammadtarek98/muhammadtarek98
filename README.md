@@ -9,3 +9,4 @@
 - I was in the scholarship of intel
  ![Intel Scholarship](Intel-Scholarship%2B2020%402x.jpg)
  ![Deep learning specialization badge from Coursera](deep-learning-specialization.png)![Deep Neural Networks with PyTorch badge from IBM](deep-neural-networks-with-pytorch.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
