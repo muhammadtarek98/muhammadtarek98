@@ -6,5 +6,4 @@
 - I was deep learning and computer vision intern at [Curve A.I solutions](https://curveaisolutions.com/)
 - I was an automation engineering intern at [First Gulf Solutions](https://www.firstgulfsolutions.com/)
 - I was AI inter at [ODC Egypt](https://www.linkedin.com/company/orange-digital-center-egypt/) cooperated with [Instant software solutions](https://www.linkedin.com/company/instantsoftwaresolution/) 
-- I was in the scholarship of intel
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtarek98)](https://github.com/anuraghazra/github-readme-stats)
