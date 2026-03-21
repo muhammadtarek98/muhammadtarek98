@@ -6,4 +6,4 @@
 - I was an automation engineering intern at [First Gulf Solutions](https://www.firstgulfsolutions.com/)
 - I was AI inter at [ODC Egypt](https://www.linkedin.com/company/orange-digital-center-egypt/) cooperated with [Instant software solutions](https://www.linkedin.com/company/instantsoftwaresolution/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtarek98&hide=jupyter%20notebook&langs_count=8&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtarek98&hide=jupyter%20notebook,html,css,starlink&langs_count=8&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
